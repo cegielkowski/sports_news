@@ -1,0 +1,8 @@
+DATABASE_NAME=sportsNews
+DATABASE_URL=xxxxx
+HULL_CITY_BASE_URL=https://www.wearehullcity.co.uk/api/incrowd
+HULL_CITY_FETCH_PATH=/getnewlistinformation?count=
+HULL_CITY_GET_PATH=/incrowd/getnewsarticleinformation?id=
+QUANTITY_TO_FETCH=15
+CRON_FREQUENCY_MINUTES=40
+HTTP_PORT=:3000
